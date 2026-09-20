@@ -1,226 +1,228 @@
-# Tarangini-Studio
+# 🌸 Tarangini Studio
 
+## Kathak Beyond Boundaries — Digital Home of Kathak
 
+Tarangini Studio is a digital learning platform dedicated to **Kathak**, one of the major classical dance forms of India.
 
-### Kathak Beyond Boundaries — Digital Home of Kathak
+The project brings traditional Kathak learning into a structured digital environment where learners can explore Kathak theory, history, terminology, techniques, Gharanas, footwork, hand movements, turns and other important concepts through organized lessons.
 
-Tarangini Studio is an educational web platform designed to bring the knowledge, practice, and learning of **Kathak** into the digital space.
-
-The project combines **Indian classical dance education with modern web technologies and Artificial Intelligence**, with the long-term vision of creating an intelligent digital companion for Kathak learners.
+Tarangini Studio combines the traditional knowledge and learning approach of Kathak with modern web technology to create an accessible and interactive learning experience.
 
 > **AI as a practice companion, not a replacement for the Guru.**
 
 ---
 
-## 🌸 About the Project
+# 🎯 What is Tarangini Studio?
 
-Kathak is one of the major classical dance forms of India. Learning Kathak traditionally involves continuous interaction with a Guru, regular Riyaz (practice), understanding of Taal and Laya, footwork, hand movements, expressions, compositions, and performance theory.
+Learning Kathak involves much more than simply learning dance movements. A student needs to understand:
 
-However, learners may not always have access to structured learning resources outside their regular classes.
+- History and evolution of Kathak
+- Kathak Gharanas
+- Technical terminology
+- Taal and Laya
+- Tatkar
+- Hastak
+- Chakkar
+- Toda
+- Tukda
+- Tihai
+- Paran
+- Aamad
+- Gat
+- Abhinaya
+- Performance theory
+- Kathak repertoire
 
-**Tarangini Studio** aims to provide a structured digital environment where learners can:
+Tarangini Studio organizes these concepts into a digital learning platform so that learners can study them systematically.
 
-- Learn Kathak theory
-- Understand Kathak terminology
-- Study Kathak history and Gharanas
-- Learn basic Kathak techniques
-- Understand Taal and Laya
-- Practice Riyaz
-- Learn Tatkar, Hastak, Chakkar and other techniques
-- Track their practice and learning progress
-- Gradually use AI-powered tools for personalized practice
-
-The project is being developed in multiple stages, beginning with a structured educational website and gradually introducing AI-based features.
-
----
-
-# 🎯 Project Objectives
-
-The major objectives of Tarangini Studio are:
-
-1. Create a structured digital learning platform for Kathak.
-2. Make Kathak theory easier to understand for beginners.
-3. Provide organized lessons for different learning levels.
-4. Provide tools for regular Riyaz and practice tracking.
-5. Introduce digital Taal and Theka learning.
-6. Preserve and present Kathak knowledge in a structured digital format.
-7. Gradually integrate Artificial Intelligence into Kathak learning.
-8. Develop personalized practice assistance for learners.
-9. Explore computer vision, audio processing and machine learning for Kathak analysis.
-10. Build a bridge between traditional Kathak education and modern technology.
+The platform is designed to act as a **digital learning and practice companion for Kathak students**.
 
 ---
 
-# 🧑‍🎓 Target Users
+# 🌺 Why This Project?
 
-Tarangini Studio is primarily designed for:
+Traditional Kathak education is strongly based on the **Guru-Shishya Parampara**, where students learn directly from their Guru through observation, practice, repetition and correction.
 
-- Beginners learning Kathak
-- Intermediate Kathak students
-- Advanced learners
-- Students revising Kathak theory
-- Dance enthusiasts interested in Indian classical dance
-- Researchers exploring technology and Indian classical dance
-- Teachers and learners interested in digital learning tools
+While this traditional system remains extremely important, students also need resources for:
 
----
+- Revision
+- Theory study
+- Understanding terminology
+- Practicing regularly
+- Revisiting concepts outside class
+- Maintaining learning consistency
 
-# 📚 Current Learning Modules
+Tarangini Studio addresses this need by providing a structured digital space for Kathak learning.
 
-The website currently contains a structured **Learn** section.
-
-## Beginner Level
-
-### 01 — Introduction to Kathak
-Introduction to the dance form, its basic concepts and terminology.
-
-### 02 — History of Kathak
-An introduction to the historical development of Kathak.
-
-### 03 — Kathak Gharanas
-Introduction to major Kathak Gharanas and their characteristics.
-
-### 04 — Kathak Terminology
-Important terminology used in Kathak learning and practice.
-
-### 05 — Tatkar
-Introduction to basic Kathak footwork and Tatkar practice.
-
-### 06 — Hastak
-Introduction to hand and arm movements used in Kathak.
+The objective is not to replace traditional teaching, but to provide an additional digital resource that supports the learner.
 
 ---
 
-## Intermediate Level
+# 💡 What We Are Doing in This Project
 
-### 07 — Chakkar
-Introduction to turns/spins, balance, central axis, coordination and practice.
+Tarangini Studio provides a structured digital Kathak learning experience.
 
-### 08 — Toda
-Planned learning module.
+The project focuses on four major areas:
 
-### 09 — Tukda
-Planned learning module.
+### 📚 1. Kathak Learning
 
-### 10 — Tihai
-Planned learning module.
+The platform provides organized lessons covering important Kathak concepts.
 
-### 11 — Paran
-Planned learning module.
+Learners can study topics according to their level and gradually move from fundamental concepts to more advanced concepts.
 
-### 12 — Aamad
-Planned learning module.
+### 🩰 2. Kathak Technique
 
----
+The platform explains important practical concepts such as:
 
-## Advanced Level
-
-### 13 — Gat
-Planned learning module.
-
-### 14 — Abhinaya
-Planned learning module.
-
-### 15 — Performance Theory
-Planned learning module.
-
-### 16 — Kathak Repertoire
-Planned learning module.
-
----
-
-# 🤖 AI Vision
-
-The long-term vision of Tarangini Studio is to develop an **AI-powered Kathak learning companion**.
-
-Possible future AI capabilities include:
-
-### 🩰 Movement Analysis
-
-Using computer vision and pose estimation to analyze:
-
-- Body posture
-- Hand positions
+- Tatkar
+- Hastak
+- Chakkar
 - Footwork
-- Chakkar technique
-- Movement coordination
+- Hand and arm movements
+- Rhythm and coordination
+- Basic practice techniques
 
-Possible technologies:
+### 🎵 3. Rhythm and Practice
 
-- OpenCV
-- MediaPipe
-- Pose Estimation
-- PyTorch / TensorFlow
+Kathak is closely connected with **Taal, Laya and rhythmic patterns**.
 
----
+Tarangini Studio is designed around the idea of supporting regular Riyaz and helping learners understand the relationship between:
 
-### 🎵 Rhythm Analysis
+**Movement + Footwork + Rhythm + Taal + Expression**
 
-Audio-processing techniques could be used to analyze:
+### 🤖 4. Technology-Assisted Learning
 
-- Taal
-- Laya
-- Timing
-- Footwork rhythm
-- Practice consistency
+The project explores how modern technology and Artificial Intelligence can be used to support Kathak learning.
 
-Possible technologies:
+The broader concept is to use technology for areas such as:
 
-- Python
-- Librosa
-- Audio Signal Processing
-- Machine Learning
+- Practice assistance
+- Performance analysis
+- Movement understanding
+- Rhythm analysis
+- Personalized learning
+- Digital feedback
+
+The central philosophy remains that technology should **support the learner and Guru**, rather than replace traditional Kathak teaching.
 
 ---
 
-### 🗣️ Padhant Companion
+# 📖 Learning Structure
 
-A future AI module could assist learners in practicing Kathak bols and Padhant.
+Tarangini Studio organizes Kathak education into different learning levels.
 
-Possible capabilities:
+## 🌱 Beginner
 
-- Bol recognition
-- Rhythm matching
-- Pronunciation assistance
-- Practice feedback
+The beginner section introduces the foundations of Kathak.
+
+### Introduction to Kathak
+
+Learners are introduced to the basic concept and identity of Kathak.
+
+### History of Kathak
+
+The lesson introduces the historical development and evolution of Kathak.
+
+### Kathak Gharanas
+
+Learners are introduced to the major Kathak Gharanas and their distinctive characteristics.
+
+### Kathak Terminology
+
+Important terms used in Kathak are explained in simple language.
+
+### Tatkar
+
+The platform introduces Kathak footwork and basic Tatkar concepts.
+
+### Hastak
+
+The lesson explains the coordinated use of hands and arms in Kathak.
 
 ---
 
-### 🥁 Tabla Companion
+# 🔄 Intermediate Learning
 
-A digital Tabla/Theka system could provide rhythmic accompaniment for practice.
+The intermediate section introduces more technical aspects of Kathak.
 
-Possible features:
+### Chakkar
 
-- Taal selection
-- Theka playback
-- Tempo control
-- Practice mode
-- Riyaz accompaniment
+The Chakkar lesson explains:
+
+- Turns and spins
+- Central axis
+- Balance
+- Body alignment
+- Footwork
+- Head and eye coordination
+- Hastak coordination
+- Rhythm
+- Practice techniques
+- Common beginner mistakes
+
+The lesson also contains visual references to help learners understand the movement.
+
+### Toda
+
+Introduction to the structure and concept of Toda in Kathak.
+
+### Tukda
+
+Understanding the structure and presentation of Tukda.
+
+### Tihai
+
+Understanding repeated rhythmic patterns and their relationship with Taal.
+
+### Paran
+
+Introduction to Paran and its rhythmic structure.
+
+### Aamad
+
+Understanding Aamad and its role in Kathak repertoire.
 
 ---
 
-### 🎹 Harmonium / Lehra Companion
+# 🎭 Advanced Learning
 
-Future versions may include digital Lehra/Harmonium-style accompaniment for Riyaz.
+The advanced learning section covers concepts related to higher-level Kathak practice and performance.
+
+Topics include:
+
+- Gat
+- Abhinaya
+- Performance Theory
+- Kathak Repertoire
+
+These concepts help connect technical practice with performance and artistic presentation.
 
 ---
 
-### 📊 Personalized Riyaz
+# 👤 User Account System
 
-The system could eventually analyze a learner's practice history and provide personalized practice suggestions.
+Tarangini Studio includes a user authentication system.
 
-For example:
+Users can:
+
+- Create an account
+- Log in securely
+- Access their account
+- Log out
+
+The system uses password hashing to avoid storing passwords as plain text.
+
+The application uses Flask sessions to maintain the user's login state.
+
+---
+
+# 🗄️ Database
+
+The project uses **SQLite** as its database.
+
+The database stores user account information required by the authentication system.
+
+### Database
 
 ```text
-Practice History
-       ↓
-Performance / Activity Analysis
-       ↓
-Identify Areas for Practice
-       ↓
-Personalized Riyaz Plan
-       ↓
-Practice
-       ↓
-Progress Tracking
+tarangini.db
